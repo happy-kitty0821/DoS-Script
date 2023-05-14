@@ -1,6 +1,6 @@
 # DoS-Script
 
-The code appears is a script that performs WiFi network scanning using the `airodump-ng` tool. 
+The code is a script that performs WiFi network scanning using the `airodump-ng` tool. 
 It allows the user to select a WiFi interface, puts it into monitor mode, and then uses `airodump-ng` to discover and display wireless access points in the vicinity.
 
 Here is a breakdown of the main steps and functionalities of the code:
