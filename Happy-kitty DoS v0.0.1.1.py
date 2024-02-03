@@ -6,7 +6,7 @@ import time
 import shutil
 from datetime import datetime
 
-available_visible_networks = []
+available_visible_networks = [] #empty list to store all the names(BSSID) of wifi networks
 
 def check_for_essid(essid, lst):
     if len(lst) == 0:
